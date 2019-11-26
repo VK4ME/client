@@ -1,0 +1,12 @@
+﻿build
+dist
+/build/
+src/res/Thumbs.db
+nbproject/private
+emoji/Thumbs.db
+Thumbs.db
+/iconpacker/nbproject/private/
+iconpacker/nbproject/genfiles.properties
+/iconpacker/build/
+iconpacker/*.png
+iconpacker/*.rle
